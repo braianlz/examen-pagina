@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+}
+body{
+    background-color: gray;
+}
+.section{
+    margin-left: 500px;
+    margin-right: 500px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    padding: 50px;
+    background-color: white;
+    font-family: 'Alata', sans-serif;
+    font-family: 'Josefin Sans', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+}
+.title{
+    text-align: center;
+}
+.link{
+    margin-left: 630PX;
+    height: 80px;
+    width: 110px;
+}
